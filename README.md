@@ -10,6 +10,7 @@
 ### 🚀 SAAS Projects
 | Project | Link |
 |---------|------|
+| Clear Designs | [https://clear-designs.com](https://clear-designs.com) |
 | eiadah.com | [https://eiadah.com](https://eiadah.com) |
 | Dr. Ahmed Tolba | [https://dr-ahmed-tolba.eiadah.com](https://dr-ahmed-tolba.eiadah.com) |
 | examprof.com | [https://examprof.com](https://examprof.com) |
