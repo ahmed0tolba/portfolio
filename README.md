@@ -18,6 +18,7 @@
 ### 📋 Sample Projects
 | Project | Link |
 |---------|------|
+| Resturant | [https://ahmed0tolba.github.io/resturant/](https://ahmed0tolba.github.io/resturant/) |
 | Workspace | [https://ahmed0tolba.github.io/workspace/](https://ahmed0tolba.github.io/workspace/) |
 | Educational Institute | [https://ahmed0tolba.github.io/educational_instatute/](https://ahmed0tolba.github.io/educational_instatute/) |
 | Mega Construction | [https://ahmed0tolba.github.io/mega-construction/](https://ahmed0tolba.github.io/mega-construction/) |
