@@ -10,8 +10,9 @@
 ### 🚀 SAAS Projects
 | Project | Link |
 |---------|------|
-| Clear Designs | [https://clear-designs.com](https://clear-designs.com) |
+| ch-pinkoi.com | [https://cn-pinkoi.com](https://pinkoi.com) |
 | eiadah.com | [https://eiadah.com](https://eiadah.com) |
+| Clear Designs | [https://clear-designs.com](https://clear-designs.com) |
 | Dr. Ahmed Tolba | [https://dr-ahmed-tolba.eiadah.com](https://dr-ahmed-tolba.eiadah.com) |
 
 ### 📋 Sample Projects
